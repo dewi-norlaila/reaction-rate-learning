@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://sayamakanayam73-maker.github.io/tes.github.io",
+  "homepage": "https://dewi-norlaila.github.io/reaction-rate-learning",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
